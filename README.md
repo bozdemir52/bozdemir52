@@ -35,7 +35,7 @@ I am a **Statistician (M.Sc.)** and an experienced infrastructure provider speci
 
 | **Category** | **Projects** |
 | :--- | :--- |
-| **MAINNET** | 🟢 **Monad (25M stake)** • 🟢 **Espresso (1M stake)** • 🟢 **Humanode** • 🟢 **Pactus** • 🟢 **Dymension** (Past Selection) |
+| **MAINNET** | 🟢 **Monad (25M stake. They were elected to secure delegates. Delegates are expected. )** • 🟢 **Espresso (5M stake)** • 🟢 **Atomone Mainnet Active set** • 🟢 **Humanode** • 🟢 **Pactus** • 🟢 **Dymension** (Past Selection) |
 | **AI & DePIN** | 🤖 **Cortensor** (Contributor and mainnet lite now) • 🤖 **Diode** • 🤖 **Privasea** • 🤖 **Mawari** |
 | **TESTNET (L1/L2)** | 🦄 **Monad** • 📖 **Story (Aeneid)** • 🛠️ **Avail** • 🧬 **Initia** • ♾️ **0G** • ⛓️ **SelfChain** |
 | **INFRASTRUCTURE** | ⚙️ **t3rn** • ⚙️ **Warden** • ⚙️ **Pell** • ⚙️ **Pipe** • ⚙️ **Sonaric** |
